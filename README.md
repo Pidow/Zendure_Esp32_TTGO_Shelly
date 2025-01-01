@@ -1,7 +1,6 @@
 # Zendure & Shelly to TTGO
 
-![SCREENLOGO](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/defaut.jpg?raw=true)
-![SCREENLOGO](https://github.com/Pidow/Envoy-ESP8266/blob/main/PIC/Picture1.gif?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/Consommation.jpg?raw=true)
 
 TARGET:
 Display Shelly & Zendure gateway information trough Wifi.
@@ -29,15 +28,18 @@ I added the possibility to turn off the screen the night using var hourstart, ho
 
 The system is ready !
 
-## Description
+## CONNEXION
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/wifi1.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/wifi2.jpg?raw=true)
 
 ### PRODUCTION INFORMATION
 
 ### CONSUMPTION INFORMATION
-
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/Consommation.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/shelly.jpg?raw=true)
 
 ### BATTERY INFORMATION
-
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/Zendure.jpg?raw=true)
 ## 3D PRINT
 CASE PROTECTION (in progress)
 
