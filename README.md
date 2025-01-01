@@ -29,8 +29,8 @@ I added the possibility to turn off the screen the night using var hourstart, ho
 The system is ready !
 
 ## CONNEXION
-![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/wifi1.jpg?raw=true)
-![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/wifi2.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/wifi1.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/wifi2.jpg?raw=true)
 
 ### PRODUCTION INFORMATION
 
