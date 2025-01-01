@@ -1,6 +1,6 @@
 # Zendure & Shelly to TTGO
 
-![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/Consommation.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/Consommation.jpg?raw=true)
 
 TARGET:
 Display Shelly & Zendure gateway information trough Wifi.
@@ -33,13 +33,14 @@ The system is ready !
 ![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/wifi2.jpg?raw=true)
 
 ### PRODUCTION INFORMATION
-
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/Production.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/shelly2.jpg?raw=true)
 ### CONSUMPTION INFORMATION
-![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/Consommation.jpg?raw=true)
-![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/shelly.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/Consommation.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/shelly.jpg?raw=true)
 
 ### BATTERY INFORMATION
-![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/tree/master/img/Zendure.jpg?raw=true)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/Zendure.jpg?raw=true)
 ## 3D PRINT
 CASE PROTECTION (in progress)
 
