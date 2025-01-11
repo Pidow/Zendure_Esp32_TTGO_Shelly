@@ -15,6 +15,13 @@ Overview:
 *   Shelly pro 3EM: 120€ https://fr.zendure.com/products/shelly?variant=41867203084424
 *   Battery pack with Hyper2000 https://fr.zendure.com/
 
+## NEXT VERSION (COMMING SOON)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/Newversion.png?raw=true)
+*   Esp32 2432S024: 17€ https://fr.aliexpress.com/item/1005005865107357.html?gatewayAdapt=glo2fra
+    - Capacitive touch
+    - Screen 2.4
+    - Value udpate in real time
+
 ## DIFFICULTIES:
 TTGO have to connect to shelly first to extract Json production/consumption with local connection.
 
