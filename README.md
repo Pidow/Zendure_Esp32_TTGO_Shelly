@@ -16,7 +16,7 @@ Overview:
 *   Battery pack with Hyper2000 https://fr.zendure.com/
 
 ## NEXT VERSION (COMMING SOON)
-![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/Newversion.png?raw=false)
+![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/Newversion.png?raw=false)![SCREENLOGO](https://github.com/Pidow/Zendure_Esp32_TTGO_Shelly/blob/master/img/Newversion2.png?raw=false)
 *   Esp32 2432S024: 17€ https://fr.aliexpress.com/item/1005005865107357.html?gatewayAdapt=glo2fra
     - Capacitive touch
     - Screen 2.4
